@@ -5,7 +5,7 @@ Menkar AJAX
 
 AJAX GET/POST lecture with JQuery, Express, & Node
 
-[vid link]()
+[vid link](https://vimeo.com/271567566)
 ===
 
 ![whiteboard.jpg](whiteboard.jpg)
